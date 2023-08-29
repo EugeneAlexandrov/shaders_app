@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+Just a shaders sandbox app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Recording - iPhone 14 - 2023-08-29 at 17 42 37](https://github.com/EugeneAlexandrov/shaders_app/assets/53467702/8cca62f5-93f6-4c8b-8876-9158fba6caac)
